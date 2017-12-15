@@ -6,6 +6,7 @@ The most annoying part of taking photos with friends is the point when everyone 
 
 ## Use
 To run the app, download the Expo Client app on iOS and scan the QR code.
+
 ![QR Code](/screenshots/qr.png)
 
 Begin by signing in through facebook on the settings page. Once you have done that, go to the main camera, make sure the front camera is there, and click the person icon at the top right to take a picture of yourself (make sure only you are in the shot). This will allow the app to recognize you in the future.
