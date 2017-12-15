@@ -1,11 +1,13 @@
 # PhotoTagger
 The most annoying part of taking photos with friends is the point when everyone asks to be sent the same photo of the group. PhotoTagger solves this problem by automatically sharing photos with those who appear in them the moment they are taken. This is done with facial recognition so that everyone who appears in the photo receives it without the need to go through the effort of sharing each one.
+
 ![Photos](/screenshots/ss1.png)
 ![Camera](/screenshots/ss2.png)
 
 ## Use
 To run the app, download the Expo Client app on iOS and scan the QR code
-![QR Code](/screenshots/qr.png)
+![QR Code](/screenshots/qr.png).
+
 Begin by signing in through facebook on the settings page. Once you have done that, go to the main camera, make sure the front camera is there, and click the person icon at the top right to take a picture of yourself (make sure only you are in the shot). This will allow the app to recognize you in the future.
 From there, you can take photos of your friends, and (assuming they have also downloaded the app and made an account) have the app automatically send them pictures they appear in.
 
