@@ -4,6 +4,8 @@ The most annoying part of taking photos with friends is the point when everyone 
 ![Photos](/screenshots/ss1.png)
 ![Camera](/screenshots/ss2.png)
 
+[Video Demo](https://youtu.be/bdQt3WloVYw)
+
 ## Use
 To run the app, download the Expo Client app on iOS and scan the QR code.
 
