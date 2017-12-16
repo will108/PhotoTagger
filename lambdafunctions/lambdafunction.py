@@ -65,7 +65,7 @@ def lambda_handler(event, context):
             for item in all_faces:
                 table.update_item(
                     Key={
-                        'userid' : user
+                        'userid' : item
                     },
                     UpdateExpression = "SET #P = list_append (if_not_exists (#P, :empty_list), :my_value)",
                     ExpressionAttributeNames= {'#P' : 'myphotos'},
