@@ -94,7 +94,7 @@ export default class SettingsScreen extends React.Component {
   _handleFacebookLogin = async () => {
     try {
       const { type, token, expires } = await Facebook.logInWithReadPermissionsAsync(
-        '107172563405072', // Replace with your own app id in standalone app
+        '', // Replace with your own app id in standalone app
         { permissions: ['public_profile'] }
       );
 
